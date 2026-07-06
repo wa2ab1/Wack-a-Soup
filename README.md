@@ -3,10 +3,13 @@
 
 Have you ever looked at soup and went "That looks so cute I totally want to smash it"? Well now you can! Whack-a-soup is a whack-a-mole, but instead of hitting moles you can hit soup. Each player gets 30 seconds to score by hitting as many soups as possible. 
 
-## Model
-<img width="4284" height="5712" alt="image" src="https://github.com/user-attachments/assets/62b67bb7-91dc-4ccc-b502-22da11d76bdd" />
+## Models
+Rack and Pinion modified from [@user_3285456170 on Makerworld](https://makerworld.com/en/models/772638-rack-and-pinion-for-6-mm-shaft?from=search#profileId-710441) 
+<img width=50% alt="image" src="https://github.com/user-attachments/assets/016c2d06-2f7e-429d-acba-6e02ad4d2387" />
 
-<img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/32691fa0-2990-4ed6-b5e9-662ead92fe01" />
+Soup 
+<img width=50% alt="image" src="https://github.com/user-attachments/assets/885aa73f-538b-4697-b557-7c3342f50b7b" />
+
 
 ## Components 
 - soup model x5 
