@@ -3,6 +3,8 @@
 
 Have you ever looked at soup and went "That looks so cute I totally want to smash it"? Well now you can! Whack-a-soup is a whack-a-mole, but instead of hitting moles you can hit soup. Each player gets 30 seconds to score by hitting as many soups as possible. 
 
+The design features a rack and pinion mechanism that is powered by a gear and motor to pop up the soups. Two 7 segment displays display your current score and the remaining time. Pressing the arcade button starts the 30 second timer and the game. 
+
 ## Models
 Rack and Pinion modified from [@user_3285456170 on Makerworld](https://makerworld.com/en/models/772638-rack-and-pinion-for-6-mm-shaft?from=search#profileId-710441) 
 
@@ -20,9 +22,12 @@ Koi Hammer
 - soup model x5 
 - arcade button x1 - game start 
 - 7 segment display x2 - score and time
-- portable and lip battery 
+- portable lipo battery 12v
 - hit sensors x5 
-- rack and pinions x5 
+- rack and pinions x5
+- ESP32 S3 devboard
+- DRV883 H-Bridge x 3
+- Motors 7.5V x 5
 
 ## Wiring
 
